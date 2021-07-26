@@ -1,5 +1,4 @@
 ### Hi there,I'm Marhamat Baghirov a Frontend Developer 👋
-Linkedin Badge Website Badge Twitter Badge Instagram Badge Medium Badge Telegram Badge
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning Advanced Javascript and Reactjs
