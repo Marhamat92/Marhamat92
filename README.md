@@ -1,4 +1,4 @@
-### Hi there,I'm Marhamat Baghirov a Frontend Developer 👋
+### Hi there👋,I'm Marhamat Baghirov a Frontend Developer 
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning Advanced Javascript and Reactjs
