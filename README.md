@@ -26,7 +26,12 @@ I am a front end developer with robust problem-solving skills and proven experie
 </br>
 
 
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
