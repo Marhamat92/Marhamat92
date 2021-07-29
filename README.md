@@ -1,5 +1,4 @@
 ### Hi there👋,I'm Marhamat Baghirov a Frontend Developer 
-With my design and coding skills, I will build beautiful websites for you.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marhamat-baghirov-a82bb7150/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](#)
@@ -10,10 +9,22 @@ With my design and coding skills, I will build beautiful websites for you.
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Marhamat92.Marhamat92)
 
+With my design and coding skills, I will build beautiful websites for you.
+
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning Advanced Javascript and Reactjs
 - 💬 Ask me about anything related to frontend development;
 - 📫 How to reach me: marhamatbaghirov@gmail.com
 - 📝[resume]()
+
+
+
+
+
+
+
+
+
 
