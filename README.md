@@ -18,7 +18,7 @@ I am a front end developer with robust problem-solving skills and proven experie
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning Advanced Javascript and Reactjs
+- 🌱 I’m currently learning Advanced Python
 - 💬 Ask me about anything related to frontend development;
 - 📫 How to reach me: marhamatbaghirov@gmail.com
 - 📝[resume]()
