@@ -9,7 +9,32 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Marhamat92.Marhamat92)
 
-I am a front end developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment
+I am a React Developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment
+
+
+# Skills
+
+Reactjs,
+Nextjs,
+CSS,
+Git,
+Bootstrap,
+Nodejs,
+PostgreSQL,
+React Native,
+Zustand,
+SASS,
+Redux Toolkit,
+Javascript,
+HTML,
+TailwindCSS,
+ExpressJs,
+AdobeXD,
+Figma,
+MongoDB,
+Redux,
+MaterialUI,
+ContextAPI
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75548742/127445929-22606a6f-f347-4bbf-845f-e32227ad3eee.gif" width="408" height="318" />
 
