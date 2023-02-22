@@ -1,4 +1,4 @@
-### Hi there👋,I'm Marhamat Baghirov a Frontend Developer 
+### Hi there👋,I'm Marhamat Baghirov a Full Stack Developer 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marhamat-baghirov-a82bb7150/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](#)
@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Marhamat92.Marhamat92)
 
-I am a React Developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment
+I am a Full Stack Developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment
 
 
 # Skills
